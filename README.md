@@ -57,7 +57,7 @@ that will help you pass these tests:
 ### Migration
 
 Create a migration called `create_shows` using Rake.
-
+n
 In the migration file, write the migration code to create a `shows` table. The
 table should have `name`, `network`, `day`, and `rating` columns. `name`,
 `network`, and `day` have a datatype of string, and `rating` has a datatype of
